@@ -38,8 +38,8 @@ Each solution includes:
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | Updating... |
-| 🟡 Medium | Updating... |
+| 🟢 Easy | 1 |
+| 🟡 Medium | 2 |
 | 🔴 Hard | Updating... |
 
 **Total Problems Solved:** Updating...
